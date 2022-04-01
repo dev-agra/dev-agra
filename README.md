@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dev-agra
+- 👀 I’m interested in Blockchain, Web 3.0, Python Dev Ops and some ML.
+- 🌱 I’m currently learning solidity and working with advanced python modules.
+- 💞️ I’m looking to collaborate on well wherever you can find me.
+- 📫 Reach me https://www.linkedin.com/in/devansh-agrahari-2040b9212/ on Linkedln
